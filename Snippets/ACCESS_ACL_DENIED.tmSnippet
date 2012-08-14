@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>when ACCESS_ACL_DENIED {
+	${0}
+}</string>
+	<key>name</key>
+	<string>ACCESS_ACL_DENIED</string>
+	<key>scope</key>
+	<string>source.irule</string>
+	<key>tabTrigger</key>
+	<string>when</string>
+	<key>uuid</key>
+	<string>3008B1EF-19AA-4EEF-AB69-86B574611CEB</string>
+</dict>
+</plist>

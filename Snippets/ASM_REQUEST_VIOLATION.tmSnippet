@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>when ASM_REQUEST_VIOLATION {
+	${0}
+}</string>
+	<key>name</key>
+	<string>ASM_REQUEST_VIOLATION</string>
+	<key>scope</key>
+	<string>source.irule</string>
+	<key>tabTrigger</key>
+	<string>when</string>
+	<key>uuid</key>
+	<string>86ED8763-5A39-4679-AD37-771256DB5CED</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>when NAME_RESOLVED {
+	${0}
+}</string>
+	<key>name</key>
+	<string>NAME_RESOLVED</string>
+	<key>scope</key>
+	<string>source.irule</string>
+	<key>tabTrigger</key>
+	<string>when</string>
+	<key>uuid</key>
+	<string>9FB55D16-E7D2-41BF-9FFC-11E173B0C1C2</string>
+</dict>
+</plist>

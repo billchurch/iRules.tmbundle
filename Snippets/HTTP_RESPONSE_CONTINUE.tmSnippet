@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>when HTTP_RESPONSE_CONTINUE {
+	${0}
+}</string>
+	<key>name</key>
+	<string>HTTP_RESPONSE_CONTINUE</string>
+	<key>scope</key>
+	<string>source.irule</string>
+	<key>tabTrigger</key>
+	<string>when</string>
+	<key>uuid</key>
+	<string>B254D59B-4AC1-4BDD-BA9E-69F343E1D092</string>
+</dict>
+</plist>

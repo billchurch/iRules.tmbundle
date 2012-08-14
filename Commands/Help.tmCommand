@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beforeRunningCommand</key>
+	<string>saveActiveFile</string>
+	<key>command</key>
+	<string>. "$TM_SUPPORT_PATH/lib/webpreview.sh"
+html_header Help
+
+Markdown.pl &lt;&lt;'EOF'
+
+# About
+An iRule is a powerful and flexible feature of BIG-IP devices based on F5's exclusive TMOS architecture. iRules provide you with unprecedented control to directly manipulate and manage any IP application traffic. iRules utilizes an easy to learn scripting syntax and enables you to customize how you intercept, inspect, transform, and direct inbound or outbound application traffic.
+
+iRules is an Event Driven scripting language. This means that you'll be writing code based off of specific Events that occur within the context of the connections being passed through the VIP your iRule is applied to. Here's a list of iRule Events in our Wiki. Also, don't forget to stop by the Codeshare to see what is available in completed or partially completed form.
+
+For more information in iRules please visit:
+
+https://devcentral.f5.com/HotTopics/iRules/tabid/1082202/Default.aspx
+
+The most recent version of this TextMate bundle is published on GitHub:
+
+https://github.com/billchurch/iRules.tmbundle
+
+# Snippets
+
+To use a Snippet, type the first few characters of a command below and press &lt;TAB&gt;.
+
+This bundle contains snippets for use with iRules.
+
+ * `for ` — For is a looping command, similar in structure to the C for statement.
+ * `foreach ` — The foreach command implements a loop where the loop variable(s) take on values from one or more lists.
+ * `if ` — The if command evaluates expr1 as an expression (in the same way that expr evaluates its argument).
+ * `switch ` — The switch command matches its string argument against each of the pattern arguments in order.
+ * `when ` — Used to specify an event in an iRule.
+ * `while ` — The while command evaluates test as an expression (in the same way that expr evaluates its argument).
+
+EOF</string>
+	<key>input</key>
+	<string>none</string>
+	<key>name</key>
+	<string>Help</string>
+	<key>output</key>
+	<string>showAsHTML</string>
+	<key>scope</key>
+	<string>source.irule</string>
+	<key>uuid</key>
+	<string>DD3E3E9B-DC1B-42A6-863D-E99828B06071</string>
+</dict>
+</plist>

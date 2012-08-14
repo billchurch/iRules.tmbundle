@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>when XML_BEGIN_DOCUMENT {
+	# Deprecated in TMOS 10+
+	# 9.x requires EA License
+	${0}
+}</string>
+	<key>name</key>
+	<string>XML_BEGIN_DOCUMENT</string>
+	<key>scope</key>
+	<string>source.irule</string>
+	<key>tabTrigger</key>
+	<string>when</string>
+	<key>uuid</key>
+	<string>D6F6328C-33CB-48E6-9417-A66291C97157</string>
+</dict>
+</plist>

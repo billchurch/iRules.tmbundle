@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>when XML_CONTENT_BASED_ROUTING {
+	# Deprecated in TMOS 10+
+	# 9.x requires EA License
+	${0}
+}</string>
+	<key>name</key>
+	<string>XML_CONTENT_BASED_ROUTING</string>
+	<key>scope</key>
+	<string>source.irule</string>
+	<key>tabTrigger</key>
+	<string>when</string>
+	<key>uuid</key>
+	<string>F40E862C-F1E7-4D5C-90C3-112BAD27F31E</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>when CLIENTSSL_DATA {
+	${0}
+}</string>
+	<key>name</key>
+	<string>CLIENTSSL_DATA</string>
+	<key>scope</key>
+	<string>source.irule</string>
+	<key>tabTrigger</key>
+	<string>when</string>
+	<key>uuid</key>
+	<string>08076ADB-C971-4B20-BE6A-13CD91EBC34C</string>
+</dict>
+</plist>

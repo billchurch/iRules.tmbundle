@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>when ACCESS_SESSION_CLOSED {
+	${0}
+}</string>
+	<key>name</key>
+	<string>ACCESS_SESSION_CLOSED</string>
+	<key>scope</key>
+	<string>source.irule</string>
+	<key>tabTrigger</key>
+	<string>when</string>
+	<key>uuid</key>
+	<string>D938B1CC-2283-4DC0-8AA7-B22E4E57864A</string>
+</dict>
+</plist>

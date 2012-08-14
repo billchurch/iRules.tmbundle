@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>when AUTH_ERROR {
+	${0}
+}</string>
+	<key>name</key>
+	<string>AUTH_ERROR</string>
+	<key>scope</key>
+	<string>source.irule</string>
+	<key>tabTrigger</key>
+	<string>when</string>
+	<key>uuid</key>
+	<string>BD2E8EE0-038A-4EDF-93D5-A7FFCCE368FB</string>
+</dict>
+</plist>

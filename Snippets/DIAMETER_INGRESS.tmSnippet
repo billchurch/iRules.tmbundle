@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>when DIAMETER_INGRESS {
+	${0}
+}</string>
+	<key>name</key>
+	<string>DIAMETER_INGRESS</string>
+	<key>scope</key>
+	<string>source.irule</string>
+	<key>tabTrigger</key>
+	<string>when</string>
+	<key>uuid</key>
+	<string>F3FDD787-AD42-44F9-B1CC-B11E57CB3B16</string>
+</dict>
+</plist>

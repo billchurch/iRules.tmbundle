@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>when PERSIST_DOWN {
+	${0}
+}</string>
+	<key>name</key>
+	<string>PERSIST_DOWN</string>
+	<key>scope</key>
+	<string>source.irule</string>
+	<key>tabTrigger</key>
+	<string>when</string>
+	<key>uuid</key>
+	<string>B270E6DB-93F8-42C1-B5F3-92D29BBF6CDC</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>when SERVERSSL_HANDSHAKE {
+	${0}
+}</string>
+	<key>name</key>
+	<string>SERVERSSL_HANDSHAKE</string>
+	<key>scope</key>
+	<string>source.irule</string>
+	<key>tabTrigger</key>
+	<string>when</string>
+	<key>uuid</key>
+	<string>4609843B-B9E9-47FF-BF57-F9D0D1BA3686</string>
+</dict>
+</plist>

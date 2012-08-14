@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>when HTTP_CLASS_SELECTED {
+	${0}
+}</string>
+	<key>name</key>
+	<string>HTTP_CLASS_SELECTED</string>
+	<key>scope</key>
+	<string>source.irule</string>
+	<key>tabTrigger</key>
+	<string>when</string>
+	<key>uuid</key>
+	<string>E3A08E15-CDEF-4215-A1CD-34512FAC8103</string>
+</dict>
+</plist>
