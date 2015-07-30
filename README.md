@@ -12,3 +12,6 @@ This bundle was updated on August 15, 2012 and is currently maintained by Bill C
 Any suggestions or improvements, please feel free to contact me.
 
 The bulk of the TCL syntax highlighting was pulled from the TCL bundle by Kevin Ballard.
+
+# Disclaimer
+I'm no longer maintaining the bundle, see my sublime-iRules bundle instead.
