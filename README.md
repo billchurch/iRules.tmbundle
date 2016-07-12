@@ -14,4 +14,4 @@ Any suggestions or improvements, please feel free to contact me.
 The bulk of the TCL syntax highlighting was pulled from the TCL bundle by Kevin Ballard.
 
 # Disclaimer
-I'm no longer maintaining the bundle, see my sublime-iRules bundle instead.
+I'm no longer maintaining the bundle, see my sublime-iRules bundle instead (https://github.com/billchurch/sublime-iRules). This is hopefully out of date now.
